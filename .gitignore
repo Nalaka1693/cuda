@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+cmake-build-debug
+.idea
+*.exe
+*.out
+*.exp
+*.pdb
+*.lib
+*.db

@@ -1,0 +1,1 @@
+nvcc random.cu helpers.cu -lcurand
